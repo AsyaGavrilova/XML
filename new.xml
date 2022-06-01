@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<composition>
+		<firstName>Анастасия</firstName>
+		<lastName>Гаврилова</lastName>
+		<age>35</age>
+		<pets>0</pets>
+		<desiredSalary>50000</desiredSalary>
+	</composition>
